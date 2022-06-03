@@ -1,0 +1,6 @@
+format: 0.0.1-prealpha.7
+name: NumberTypes
+build: ./web3api.build.yaml
+language: wasm/assemblyscript
+schema: ./schema.graphql
+main: ./src/index.ts
